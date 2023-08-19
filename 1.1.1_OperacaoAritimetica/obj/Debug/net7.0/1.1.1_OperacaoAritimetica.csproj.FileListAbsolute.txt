@@ -1,0 +1,15 @@
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\bin\Debug\net7.0\1.1.1_OperacaoAritimetica.exe
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\bin\Debug\net7.0\1.1.1_OperacaoAritimetica.deps.json
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\bin\Debug\net7.0\1.1.1_OperacaoAritimetica.runtimeconfig.json
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\bin\Debug\net7.0\1.1.1_OperacaoAritimetica.dll
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\bin\Debug\net7.0\1.1.1_OperacaoAritimetica.pdb
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\obj\Debug\net7.0\1.1.1_OperacaoAritimetica.csproj.AssemblyReference.cache
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\obj\Debug\net7.0\1.1.1_OperacaoAritimetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\obj\Debug\net7.0\1.1.1_OperacaoAritimetica.AssemblyInfoInputs.cache
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\obj\Debug\net7.0\1.1.1_OperacaoAritimetica.AssemblyInfo.cs
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\obj\Debug\net7.0\1.1.1_OperacaoAritimetica.csproj.CoreCompileInputs.cache
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\obj\Debug\net7.0\1.1.1_OperacaoAritimetica.dll
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\obj\Debug\net7.0\refint\1.1.1_OperacaoAritimetica.dll
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\obj\Debug\net7.0\1.1.1_OperacaoAritimetica.pdb
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\obj\Debug\net7.0\1.1.1_OperacaoAritimetica.genruntimeconfig.cache
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.1_OperacaoAritimetica\obj\Debug\net7.0\ref\1.1.1_OperacaoAritimetica.dll

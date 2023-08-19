@@ -1,0 +1,15 @@
+D:\Cursos\.NET\projeto\17_Calcular\bin\Debug\net7.0\17_Calcular.exe
+D:\Cursos\.NET\projeto\17_Calcular\bin\Debug\net7.0\17_Calcular.deps.json
+D:\Cursos\.NET\projeto\17_Calcular\bin\Debug\net7.0\17_Calcular.runtimeconfig.json
+D:\Cursos\.NET\projeto\17_Calcular\bin\Debug\net7.0\17_Calcular.dll
+D:\Cursos\.NET\projeto\17_Calcular\bin\Debug\net7.0\17_Calcular.pdb
+D:\Cursos\.NET\projeto\17_Calcular\obj\Debug\net7.0\17_Calcular.csproj.AssemblyReference.cache
+D:\Cursos\.NET\projeto\17_Calcular\obj\Debug\net7.0\17_Calcular.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\.NET\projeto\17_Calcular\obj\Debug\net7.0\17_Calcular.AssemblyInfoInputs.cache
+D:\Cursos\.NET\projeto\17_Calcular\obj\Debug\net7.0\17_Calcular.AssemblyInfo.cs
+D:\Cursos\.NET\projeto\17_Calcular\obj\Debug\net7.0\17_Calcular.csproj.CoreCompileInputs.cache
+D:\Cursos\.NET\projeto\17_Calcular\obj\Debug\net7.0\17_Calcular.dll
+D:\Cursos\.NET\projeto\17_Calcular\obj\Debug\net7.0\refint\17_Calcular.dll
+D:\Cursos\.NET\projeto\17_Calcular\obj\Debug\net7.0\17_Calcular.pdb
+D:\Cursos\.NET\projeto\17_Calcular\obj\Debug\net7.0\17_Calcular.genruntimeconfig.cache
+D:\Cursos\.NET\projeto\17_Calcular\obj\Debug\net7.0\ref\17_Calcular.dll

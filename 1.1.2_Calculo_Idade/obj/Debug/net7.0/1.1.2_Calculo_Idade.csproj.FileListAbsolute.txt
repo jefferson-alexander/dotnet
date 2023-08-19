@@ -1,0 +1,15 @@
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\bin\Debug\net7.0\1.1.2_Calculo_Idade.exe
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\bin\Debug\net7.0\1.1.2_Calculo_Idade.deps.json
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\bin\Debug\net7.0\1.1.2_Calculo_Idade.runtimeconfig.json
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\bin\Debug\net7.0\1.1.2_Calculo_Idade.dll
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\bin\Debug\net7.0\1.1.2_Calculo_Idade.pdb
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\obj\Debug\net7.0\1.1.2_Calculo_Idade.csproj.AssemblyReference.cache
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\obj\Debug\net7.0\1.1.2_Calculo_Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\obj\Debug\net7.0\1.1.2_Calculo_Idade.AssemblyInfoInputs.cache
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\obj\Debug\net7.0\1.1.2_Calculo_Idade.AssemblyInfo.cs
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\obj\Debug\net7.0\1.1.2_Calculo_Idade.csproj.CoreCompileInputs.cache
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\obj\Debug\net7.0\1.1.2_Calculo_Idade.dll
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\obj\Debug\net7.0\refint\1.1.2_Calculo_Idade.dll
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\obj\Debug\net7.0\1.1.2_Calculo_Idade.pdb
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\obj\Debug\net7.0\1.1.2_Calculo_Idade.genruntimeconfig.cache
+C:\Users\windows 11\Downloads\.NET\projeto\Operações\1.1.2_Calculo_Idade\obj\Debug\net7.0\ref\1.1.2_Calculo_Idade.dll
