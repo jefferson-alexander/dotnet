@@ -1,2 +1,2 @@
 # dotnet
- programas de estudo
+ programas de estudo com linguagem C# .Net
