@@ -1,0 +1,15 @@
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\obj\Debug\net7.0\18.1_QuadradoMagico.csproj.AssemblyReference.cache
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\obj\Debug\net7.0\18.1_QuadradoMagico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\obj\Debug\net7.0\18.1_QuadradoMagico.AssemblyInfoInputs.cache
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\obj\Debug\net7.0\18.1_QuadradoMagico.AssemblyInfo.cs
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\obj\Debug\net7.0\18.1_QuadradoMagico.csproj.CoreCompileInputs.cache
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\bin\Debug\net7.0\18.1_QuadradoMagico.exe
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\bin\Debug\net7.0\18.1_QuadradoMagico.deps.json
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\bin\Debug\net7.0\18.1_QuadradoMagico.runtimeconfig.json
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\bin\Debug\net7.0\18.1_QuadradoMagico.dll
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\bin\Debug\net7.0\18.1_QuadradoMagico.pdb
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\obj\Debug\net7.0\18.1_QuadradoMagico.dll
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\obj\Debug\net7.0\refint\18.1_QuadradoMagico.dll
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\obj\Debug\net7.0\18.1_QuadradoMagico.pdb
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\obj\Debug\net7.0\18.1_QuadradoMagico.genruntimeconfig.cache
+D:\Cursos\.NET\projeto\18.1_QuadradoMagico\obj\Debug\net7.0\ref\18.1_QuadradoMagico.dll
